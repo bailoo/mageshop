@@ -1,0 +1,4 @@
+mageshop
+========
+
+Magento Shop
